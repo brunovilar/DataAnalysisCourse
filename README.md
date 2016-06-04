@@ -7,6 +7,7 @@ The activities performed are:
 * Data Management and Visualization
   * Week 1: [Create a research project](https://github.com/brunovilar/DataAnalysisCourse/blob/master/Data-Management-and-Visualization/Week1-StartingAResearchProject.md).
   * Week 2: [Developing the first program for Data Analysis](https://github.com/brunovilar/DataAnalysisCourse/blob/master/Data-Management-and-Visualization/Week2-InitialDataAnalysis.ipynb).
+  * Week 3: [Data Manipulation](https://github.com/brunovilar/DataAnalysisCourse/blob/master/Data-Management-and-Visualization/Week3-DataManipulation.ipynb)
 * Data Analysis Tools
 * Regression Modeling in Practice
 * Machine Learning for Data Analysis
